@@ -1,5 +1,5 @@
-const { runSearch } = require("./app");
-const { showHistory } = require("./history");
+const { runSearch } = require("./app.js");
+const { showHistory } = require("./history.js");
 
 const VALID_HISTORY_ARGS = ["keywords"];
 

@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
-const { searchGames, getGameById } = require("./api");
-const { saveKeyword } = require("./history");
+const { searchGames, getGameById } = require("./api.js");
+const { saveKeyword } = require("./history.js");
 
 /**
  * Formats and displays detailed game information in a readable format.

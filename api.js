@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 const BASE_URL = "https://api.rawg.io/api";
-const API_KEY = "your_api_key_here"; // Replace with your RAWG API key from https://rawg.io/apidocs
+const API_KEY = "fb7e6dfdc1e344b79d836cd94f8c626a"; 
 
 /**
  * Searches the RAWG API for games matching the given keyword.
