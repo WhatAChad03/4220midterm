@@ -1,0 +1,29 @@
+{
+  "name": "rawg-games-cli",
+  "version": "1.0.0",
+  "description": "A Node.js CLI application for searching video games using the RAWG API",
+  "author": "Team",
+  "contributors": [
+    "Christine Vu",
+    "Romie Medina",
+    "Lisa Liu",
+    "Lemeng Zhao"
+  ],
+  "main": "cli.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node cli.js",
+    "help": "node cli.js --help"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "inquirer": "^8.2.6"
+  },
+  "keywords": [
+    "RAWG",
+    "games",
+    "CLI",
+    "API"
+  ],
+  "license": "ISC"
+}
