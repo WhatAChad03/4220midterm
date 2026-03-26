@@ -4,24 +4,6 @@ A Node.js Command Line Interface application that searches for video games using
 
 ---
 
-## Setup
-
-### 1. Get a free RAWG API key
-Visit https://rawg.io/apidocs and register for a free API key.
-
-### 2. Add your API key
-Open `api.js` and replace the placeholder on line 4:
-```js
-const API_KEY = "your_api_key_here";
-```
-
-### 3. Install dependencies
-```bash
-npm install
-```
-
----
-
 ## Usage
 
 ### Help Menu
